@@ -233,8 +233,8 @@ export default function InteractiveAvatar() {
     try {
       const res = await avatar.current.createStartAvatar({
         quality: AvatarQuality.High, 
-        avatarName: "8539772cf30845d8bcd6dc4b6ef6ce73",
-        knowledgeId: "Sabah Inter", 
+        avatarName: "avatar id",
+        knowledgeId: "bil", 
         disableIdleTimeout: true,
       });
 
